@@ -1,3 +1,12 @@
-# 2018_06_22_Wework
+# Edward Fitzgerald WeWork Application
+### Submitted: June 22, 2018
 
-Project deliverables for WeWork application submission.
+## Instructions
+Please download all files in this repository and locally execute the index.html file.
+
+
+## References
+
+Webmap created using QGIS 
+
+
